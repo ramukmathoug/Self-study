@@ -9,3 +9,11 @@
 .A{
     background-color: red;
 }
+
+#even{
+    font-color: rgb(150, 31, 31);
+    background-color:green
+}
+.x{
+    font-color:hsl(150,31%,20%);
+}
